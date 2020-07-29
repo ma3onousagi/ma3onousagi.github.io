@@ -9,6 +9,10 @@ HTML/CSS/JavaScript/jquery/Ruby on Rails<br>
 - HTML<br>
 - CSS<br>
 - JavaScript<br>
+- Node.js<br>
 - jquery<br>
 - Ruby on Rails<br>
 - GitHub pages<br>
+
+# Contact
+- Twitterアカウント
