@@ -5,7 +5,7 @@ HTML/CSS/JavaScript/jquery/Ruby on Rails<br>
 
 ## Profile
 
-# Slills
+# Skills
 - HTML<br>
 - CSS<br>
 - JavaScript<br>
