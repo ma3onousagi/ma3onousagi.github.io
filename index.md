@@ -6,9 +6,9 @@ HTML/CSS/JavaScript/jquery/Ruby on Rails<br>
 ## Profile
 
 # Slills
-HTML<br>
-CSS<br>
-JavaScript<br>
-jquery<br>
-Ruby on Rails<br>
-GitHub pages<br>
+- HTML<br>
+- CSS<br>
+- JavaScript<br>
+- jquery<br>
+- Ruby on Rails<br>
+- GitHub pages<br>
